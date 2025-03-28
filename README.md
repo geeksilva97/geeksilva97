@@ -21,4 +21,4 @@ Writing tests that called Garbage Collector were also a good challenge!
 - [https://blog.codeminer42.com/author/antonio-barbosa/](https://blog.codeminer42.com/author/antonio-barbosa/) - My posts at CodeMiner42's Blog
 - [https://codesilva.github.io/](https://codesilva.github.io/) - Blog com ensaios em português 🇧🇷
 
-Checkout more at (https://beacons.ai/edigleyssonsilva)[https://beacons.ai/edigleyssonsilva]
+Checkout more at [https://beacons.ai/edigleyssonsilva](https://beacons.ai/edigleyssonsilva)
